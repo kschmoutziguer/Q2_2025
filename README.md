@@ -53,8 +53,8 @@ The lab sessions and answers will be available on the following dates:
 
 | Week | Lab session | Publication date<br>Lab session | Publication date<br>Answers |
 |:----:|:-----------:|:--------------------------------:|:------------------------------------------:|
-| 47   | Lab 1       | ✅ [Available](https://github.com/SEN1221TUD/Q2_2025/tree/main/Lab_sessions/Lab_session_01) | ⏳ 24-11-2025 09:00 |
-| 48   | Lab 2       | ⏳ 24-11-2025 09:00 | ⏳ 01-12-2025 09:00 |
+| 47   | Lab 1       | ✅ [Available](https://github.com/SEN1221TUD/Q2_2025/tree/main/Lab_sessions/Lab_session_01) | ✅ [Available](https://github.com/SEN1221TUD/Q2_2025/tree/main/Lab_sessions/Lab_session_01) |
+| 48   | Lab 2       | ✅ [Available](https://github.com/SEN1221TUD/Q2_2025/tree/main/Lab_sessions/Lab_session_02) | ⏳ 01-12-2025 09:00 |
 | 49   | Lab 3       | ⏳ 01-12-2025 09:00 | ⏳ 04-12-2025 09:00 |
 
 
@@ -93,7 +93,7 @@ In this section, we will guide you through the configuration of your Python envi
 
 ### Setting up Python environment using Anaconda
 
-Anaconda is a popular platform for managing Python environments. It is **strongly** recommended to create a **fresh** environment that uses Python version **3.12.12** or **3.12.11**.Other versions of Python, such as **3.10, 3.9 or  older**, are known to give some problems. Also, reusing an environment from another course is a recipe for installation troubles.
+Anaconda is a popular platform for managing Python environments. It is **strongly** recommended to create a **fresh** environment that uses Python version **3.12.11** or **3.12.12**.Other versions of Python, such as **3.10, 3.9 or  older**, are known to give some problems. Also, reusing an environment from another course is a recipe for installation troubles.
 
 Step-by-Step Instructions:
 
